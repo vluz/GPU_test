@@ -1,11 +1,4 @@
 tensorflow
-tensorflow-datasets
-tensorflow-estimator
-tensorflow-gcs-config
-tensorflow-hub
-tensorflow-io-gcs-filesystem
-tensorflow-metadata
-tensorflow-probability
 torch
 torchaudio
 torchdata
