@@ -1,7 +1,4 @@
 tensorflow
 torch
 torchaudio
-torchdata
-torchsummary
-torchtext
 torchvision
