@@ -1,4 +1,2 @@
 tensorflow
 torch
-torchaudio
-torchvision
