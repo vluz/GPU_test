@@ -1,6 +1,8 @@
 # GPU Test
 ### Jupyter notebook and some basic test scripts to test GPU functionality
 
+Most has been taken from tf/torch documentation and online information.
+
 Colab version:     
 https://colab.research.google.com/github/vluz/GPU_test/blob/main/GPU_AreYouThere.ipynb
 
