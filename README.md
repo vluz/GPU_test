@@ -1,4 +1,4 @@
-# GPU_test
+# GPU Test
 ### Jupyter notebook and some basic test scripts to test GPU functionality
 
 Colab version:     
