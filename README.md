@@ -1,5 +1,5 @@
 # GPU Test
-### Jupyter notebook and some basic test scripts to test GPU functionality
+### Jupyter notebook and some basic scripts to test GPU functionality
 
 Most has been taken from tf/torch documentation and online information.
 
