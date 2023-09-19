@@ -15,7 +15,7 @@ Watch output.
 
 <hr>
 
-To run do:
+To run the CLI tests do:
 ```python
 python testbytorch.py
 ```
